@@ -1,5 +1,0 @@
-(function ($) {
-	var beautiSelect = function () {
-		
-	}
-})(jQuery)
